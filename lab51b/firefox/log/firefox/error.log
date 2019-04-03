@@ -1,0 +1,5 @@
+/config/profile/prefs.js:1: prefs parse error: unexpected character
+Gdk-Message: 15:29:33.254: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+/config/profile/prefs.js:76: prefs parse error: unexpected character
+/config/profile/prefs.js:93: prefs parse error: unexpected character
